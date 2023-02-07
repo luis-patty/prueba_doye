@@ -1,3 +1,8 @@
+# add image of when I map the 150 pokemons
+
+<img width="693" alt="image" src="https://user-images.githubusercontent.com/122439642/217368692-e4a33715-cbd8-4f8f-a087-01df08813ab1.png">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
